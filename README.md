@@ -29,12 +29,14 @@ Here are instructions on how you can use this repository:
     > Can't decide between mobile and web app ideas
     > Need help planning division of labor
 
-4. (optional) Add a more descriptive comment to give a little bit more detail
+4. **Add your location to the issue description**. If we don't know where you
+   are, we can't help!
+5. (optional) Add a more descriptive comment to give a little bit more detail
    about your problem if it isnt self explanatory. This would be a good place to
    include what you tried so far, or what you think the mentor could do
    specifically to help.
-5. (optional) Add relevant labels for specific platforms, languages, etc.
-6. Click "Submit"!
+6. (optional) Add relevant labels for specific platforms, languages, etc.
+7. Click "Submit"!
 
 Once you have submitted your issue, mentors will be able to comment on it to
 clarify things, and assign themselves to the issue to tell you that they are on
