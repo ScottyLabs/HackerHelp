@@ -1,8 +1,7 @@
-**Hacker name(s)**:
+- **Hacker name(s)**:
+- **Physical location**:
+- **Operating system(s)**:
 
-**Location**:
-
-**Operating System(s)**:
 
 ### Description
 
