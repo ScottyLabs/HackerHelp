@@ -65,12 +65,14 @@ a Slack email, but we still need GitHub usernames.
 
 1. Email <a href="mailto:scott+thmentor@scottylabs.org">scott@scottylabs.org</a> with
    the following information:
+   
    ```
    name: Your Name
    email: example@example.com (please use the same one you signed up with)
    github username: c00lname
    affiliation: (either CMU or sponsor company)
    ```
+   
    If you don't have a [GitHub](https://github.com) account, it is free to sign up.
 2. You will get a reply, hopefully promptly, to acknowledge that your message
    was received. This will be followed by emails from GitHub and
