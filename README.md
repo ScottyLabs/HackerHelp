@@ -63,7 +63,7 @@ with our mentor GitHub page and Slack channel. For student mentors, who signed
 up through [tartanhacks.com](tartanhacks.com), you may have already received
 a Slack email, but we still need GitHub usernames.
 
-1. Email <a href="mailto:scott+thmentor@scottylabs.org">scott@scottylabs.org</a> with
+1. Email <a href="mailto:scott@scottylabs.org">scott@scottylabs.org</a> with
    the following information:
    
    ```
